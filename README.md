@@ -1,3 +1,3 @@
-# morticia.github.io
+# Showcase Projects
 
-# This is the website for morticia.github.io
+# This is a Project Hub for all programming projects
